@@ -1,0 +1,79 @@
+﻿“work2.exe”(Win32): 已加载“C:\Users\Lenovo\source\repos\work2\x64\Debug\work2.exe”。已加载符号。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\apphelp.dll”。
+“work2.exe”(Win32): 已加载“D:\opencv-3.4.1-vc14_vc15\opencv\build\x64\vc14\bin\opencv_world341d.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\gdi32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\win32u.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\gdi32full.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\msvcp_win.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\ucrtbase.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\user32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\ole32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\combase.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\rpcrt4.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\bcryptprimitives.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\advapi32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\msvcrt.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\sechost.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\oleaut32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\comdlg32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\SHCore.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\shlwapi.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\shell32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\cfgmgr32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\windows.storage.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\profapi.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\powrprof.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\umpdc.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\kernel.appcore.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\cryptsp.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\msvcp140d.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140_1d.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\msvfw32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\avifil32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\avicap32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.1082_none_73b2803ad816b43c\comctl32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\concrt140d.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\winmm.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\msacm32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\winmmbase.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\imm32.dll”。
+线程 0x2ed4 已退出，返回值为 0 (0x0)。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\uxtheme.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\msctf.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\TextInputFramework.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\CoreMessaging.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\CoreUIComponents.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\ntmarta.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\WinTypes.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\WinTypes.dll”。
+“work2.exe”(Win32): 已卸载“C:\Windows\System32\WinTypes.dll”
+“work2.exe”(Win32): 已加载“C:\Windows\System32\iertutil.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\clbcatq.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\SogouTSF.ime”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\msimg32.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\version.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\SogouPY.ime”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\oleacc.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\winhttp.dll”。
+“work2.exe”(Win32): 已加载“C:\Program Files (x86)\SogouInput\9.3.0.3129\Resource.dll”。
+“work2.exe”(Win32): 已加载“C:\Program Files (x86)\SogouInput\Components\PicFace\1.1.0.1859\PicFace64.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\dwmapi.dll”。
+“work2.exe”(Win32): 已加载“C:\Windows\System32\psapi.dll”。
+“work2.exe”(Win32): 已加载“C:\Program Files (x86)\SogouInput\Components\VoiceInput\1.0.0.162\VoiceInput64.dll”。
+线程 0x307c 已退出，返回值为 0 (0x0)。
+线程 0x1030 已退出，返回值为 0 (0x0)。
+线程 0x3b54 已退出，返回值为 0 (0x0)。
+“work2.exe”(Win32): 已卸载“C:\Windows\System32\SogouTSF.ime”
+线程 0x45a4 已退出，返回值为 0 (0x0)。
+线程 0x223c 已退出，返回值为 0 (0x0)。
+线程 0x3fc0 已退出，返回值为 0 (0x0)。
+线程 0x45b4 已退出，返回值为 0 (0x0)。
+线程 0x1650 已退出，返回值为 0 (0x0)。
+线程 0x18fc 已退出，返回值为 0 (0x0)。
+线程 0x4424 已退出，返回值为 0 (0x0)。
+程序“[15672] work2.exe”已退出，返回值为 0 (0x0)。
